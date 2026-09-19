@@ -1,0 +1,11 @@
+/* claude-qd-107 · 主色：靛 #4c6ef5 */
+/* 只改 Element Plus 的主题变量，main.js 里在 element-plus 的 css 之后引入 */
+:root {
+  --el-color-primary: #4c6ef5;
+  --el-color-primary-light-3: #829af8;
+  --el-color-primary-light-5: #a6b6fa;
+  --el-color-primary-light-7: #c9d4fc;
+  --el-color-primary-light-8: #dbe2fd;
+  --el-color-primary-light-9: #edf0fe;
+  --el-color-primary-dark-2: #3d58c4;
+}
